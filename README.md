@@ -6,4 +6,4 @@
     - quando viene attivato l'evento cancellare resettare gli elementi presenti
     - questo evento tramite un ciclo (PER) che andra da 0 a 99,servira per creare i 100 elementi cell da inserire nella griglia a cui daremo un numero da 1 a 100 (i + 1)
     - recuperare questi elementi dal DOM 
-    - aggiungere un evento CLICK che aggiungera all elemento corrispondende la classe (bg-lightblue) e quindi gli fara cambiare colore al ckick e stampera in console l'elemento
+    - aggiungere un evento CLICK che aggiungera all elemento corrispondende la classe (bg-lightblue) e quindi gli fara cambiare colore al click e stampera in console l'elemento
